@@ -1,0 +1,11 @@
+@font-face {
+    font-family: headerFont;
+    src: url(./fonts/exo/Exo-Black.ttf);
+}
+
+@font-face{
+    font-family: bodyFont;
+    src: url(./fonts/monoglyceride/Monoglyceride.ttf);
+  }
+
+
